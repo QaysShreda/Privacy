@@ -3,7 +3,7 @@ privacy_polic
 
 Privacy Policy for English for Palestine App
 
-Effective Date: [Insert Date]
+
 
 Thank you for using the English for Palestine mobile application. Your privacy is important to us, and we are committed to protecting it. This Privacy Policy outlines how we handle any information related to the use of this app.
 
